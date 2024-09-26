@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ibrahim-tumaini
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate on IT
+- 👋 Hi, I’m Ibrahim Tumaini
+- 👀 I’m a Data Analyst
+- 🌱 **Education**: BSC. Applied Computer Science
+- 💞️ **Interests**: Data Managemet, Computer Science and Research
 - 📫 How to reach me -ibrahim.tumaini254@gmail.com
 
 <!---
