@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Ibrahim Tumaini
-- 👀 I’m a Data Analyst
-- 🌱 **Education**: BSC. Applied Computer Science
-- 💞️ **Interests**: Data Managemet, Computer Science and Research
+- 🌱 **Education**: _BSC. Applied Computer Science_
+- 💞️ **Skills**:-
+- _**Data Management**: Database Design & Management, Data Quality Assessment, Data Analysis, Pattern & Trend Identification, Visualization of Data Insights
+- **Computer Science**: System Administration, Advanced Microsoft Excel Functions, SharePoint, MySQL, Tableau, Python, R, Troubleshooting
+- **Research**: Data Analytics, Cloud Computing, Web Development,System Administration, Cyber Security_
 - 📫 How to reach me -ibrahim.tumaini254@gmail.com
 
 <!---
